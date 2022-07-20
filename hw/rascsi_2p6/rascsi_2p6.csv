@@ -8,7 +8,7 @@ Comment,Designator,Footprint,LCSC
 "Hole5","H4","MountingHole:MountingHole_2.7mm_M2.5_Pad_Via","DNP"
 "Hole4","H5","MountingHole:MountingHole_2.7mm_M2.5_Pad_Via","DNP"
 "Hole6","H6","MountingHole:MountingHole_2.7mm_M2.5_Pad_Via","DNP"
-"SN74F245DWR","IC1,IC2,IC3,IC4","SamacSys_Parts:SOIC127P1030X265-20N","C7165"
+"SN74LVT245BPWR","IC1,IC2,IC3,IC4","Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm","C74214"
 "Raspberry_Pi_2_3","J1","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical","C50982"
 "DNP","J2","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","DNP"
 "171826-4","J20","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
@@ -29,3 +29,4 @@ Comment,Designator,Footprint,LCSC
 "Dogcow","X2,X4,X5,X6","SamacSys_Parts:dogcow","N/A"
 "Pi","X7","SamacSys_Parts:pi_logo","N/A"
 "Pi","X8","SamacSys_Parts:scsi_logo","N/A"
+"CE Logo","X9","Symbol:CE-Logo_8.5x6mm_SilkScreen","N/A"

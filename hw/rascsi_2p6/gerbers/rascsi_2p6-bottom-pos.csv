@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"J1","Raspberry_Pi_2_3","PinSocket_2x20_P2.54mm_Vertical",-182.870000,-47.270000,-90.000000,bottom
+"J2","DNP","PinHeader_1x02_P2.54mm_Horizontal",-233.426000,-54.483000,0.000000,bottom
+"J6","CONNFLY DB-25","L717SDB25PA4CH4F",-223.621600,-87.630000,180.000000,bottom
+"X3","Mac","mac_happy_small",-224.780000,-70.866909,180.000000,bottom
+"X7","Pi","pi_logo",-211.100000,-70.938684,180.000000,bottom
+"X8","Pi","scsi_logo",-218.411965,-70.885000,180.000000,bottom
