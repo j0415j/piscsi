@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p6\rascsi_2p6.kicad_sch</source>
-    <date>7/19/2022 8:30:21 PM</date>
+    <source>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p7\rascsi_2p7.kicad_sch</source>
+    <date>8/6/2022 4:25:31 PM</date>
     <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>rascsi_2p6.kicad_sch</source>
+        <source>rascsi_2p7.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -76,7 +76,7 @@
       <property name="Manufacturer_Name" value="Hubei KENTO Elec"/>
       <property name="Manufacturer_Part_Number" value="C2297"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef6e9e0</tstamps>
     </comp>
@@ -96,7 +96,7 @@
       <property name="Manufacturer_Name" value="Hubei KENTO Elec"/>
       <property name="Manufacturer_Part_Number" value="C2297"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef6fa85</tstamps>
     </comp>
@@ -116,7 +116,7 @@
       <property name="Manufacturer_Name" value="Hubei KENTO Elec"/>
       <property name="Manufacturer_Part_Number" value="C2297"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef6fd13</tstamps>
     </comp>
@@ -136,7 +136,7 @@
       <property name="Manufacturer_Name" value="Hubei KENTO Elec"/>
       <property name="Manufacturer_Part_Number" value="C2297"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef6ff93</tstamps>
     </comp>
@@ -156,7 +156,7 @@
       <property name="Manufacturer_Name" value="&#x9;MDD(Microdiode Electronics)"/>
       <property name="Manufacturer_Part_Number" value="SM4007PL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060874ad6</tstamps>
     </comp>
@@ -176,7 +176,7 @@
       <property name="Manufacturer_Name" value="Shenzhen lanson Elec"/>
       <property name="Manufacturer_Part_Number" value="12B1100B"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060874fc5</tstamps>
     </comp>
@@ -199,7 +199,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef88248</tstamps>
     </comp>
@@ -222,7 +222,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef89881</tstamps>
     </comp>
@@ -245,7 +245,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef89564</tstamps>
     </comp>
@@ -268,7 +268,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef896fc</tstamps>
     </comp>
@@ -291,7 +291,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef89a1e</tstamps>
     </comp>
@@ -314,7 +314,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef89b2f</tstamps>
     </comp>
@@ -337,7 +337,7 @@
       <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
       <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2be68a</tstamps>
     </comp>
@@ -360,7 +360,7 @@
       <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
       <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2c1889</tstamps>
     </comp>
@@ -383,7 +383,7 @@
       <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
       <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2c26e6</tstamps>
     </comp>
@@ -406,7 +406,7 @@
       <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
       <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2c314f</tstamps>
     </comp>
@@ -426,7 +426,7 @@
       <property name="Manufacturer_Name" value="BOOMELE(Boom Precision Elec)"/>
       <property name="Manufacturer_Part_Number" value="C50982"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-000060b58fcd</tstamps>
     </comp>
@@ -449,7 +449,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f9e980b</tstamps>
     </comp>
@@ -470,7 +470,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f0b528e</tstamps>
     </comp>
@@ -493,7 +493,7 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f604f7f</tstamps>
     </comp>
@@ -516,7 +516,7 @@
       <property name="Manufacturer_Part_Number" value="DS1037-25FNAKT74-0CC"/>
       <property name="LCSC" value="C77838"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005fa017a4</tstamps>
     </comp>
@@ -536,7 +536,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF2001TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ef6d1cc</tstamps>
     </comp>
@@ -556,7 +556,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF2001TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f9e856d</tstamps>
     </comp>
@@ -576,7 +576,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF5101TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f9e7ec2</tstamps>
     </comp>
@@ -596,7 +596,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF2001TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f9e88f6</tstamps>
     </comp>
@@ -616,7 +616,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4dfff3</tstamps>
     </comp>
@@ -636,7 +636,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4d3bde</tstamps>
     </comp>
@@ -656,7 +656,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4c7c4f</tstamps>
     </comp>
@@ -676,7 +676,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4bc384</tstamps>
     </comp>
@@ -696,7 +696,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4b1092</tstamps>
     </comp>
@@ -716,7 +716,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4a637a</tstamps>
     </comp>
@@ -736,7 +736,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f49bb11</tstamps>
     </comp>
@@ -756,7 +756,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f486b17</tstamps>
     </comp>
@@ -776,7 +776,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f456160</tstamps>
     </comp>
@@ -796,7 +796,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4f9d6d</tstamps>
     </comp>
@@ -816,7 +816,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f507536</tstamps>
     </comp>
@@ -836,7 +836,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f5154b0</tstamps>
     </comp>
@@ -856,7 +856,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f5238b5</tstamps>
     </comp>
@@ -876,7 +876,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f53230f</tstamps>
     </comp>
@@ -896,7 +896,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f5413f6</tstamps>
     </comp>
@@ -916,7 +916,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f550c5e</tstamps>
     </comp>
@@ -936,7 +936,7 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f560ac2</tstamps>
     </comp>
@@ -956,727 +956,727 @@
       <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
       <property name="Manufacturer_Part_Number" value="0402WGF1002TCE"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f4ecc1a</tstamps>
     </comp>
     <comp ref="R23">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738717</tstamps>
     </comp>
     <comp ref="R24">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7385ae</tstamps>
     </comp>
     <comp ref="R25">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7384b7</tstamps>
     </comp>
     <comp ref="R26">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7383c6</tstamps>
     </comp>
     <comp ref="R27">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738225</tstamps>
     </comp>
     <comp ref="R28">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7380c0</tstamps>
     </comp>
     <comp ref="R29">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f737f19</tstamps>
     </comp>
     <comp ref="R30">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f737d06</tstamps>
     </comp>
     <comp ref="R31">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f34697e</tstamps>
     </comp>
     <comp ref="R32">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f73941a</tstamps>
     </comp>
     <comp ref="R33">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f739229</tstamps>
     </comp>
     <comp ref="R34">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f73904c</tstamps>
     </comp>
     <comp ref="R35">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738f7d</tstamps>
     </comp>
     <comp ref="R36">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738dec</tstamps>
     </comp>
     <comp ref="R37">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738c93</tstamps>
     </comp>
     <comp ref="R38">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738b34</tstamps>
     </comp>
     <comp ref="R39">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738a29</tstamps>
     </comp>
     <comp ref="R40">
       <value>220</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F2200T5E_C17557.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810311312_YAGEO-RC0805JR-7W220RL_C163392.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17557</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F2200T5E</field>
+        <field name="Description">250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C163392</field>
+        <field name="Manufacturer_Name">YAGEO</field>
+        <field name="Manufacturer_Part_Number">RC0805JR-7W220RL</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17557"/>
-      <property name="Description" value="±1% 1/8W Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 220Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F2200T5E"/>
+      <property name="LCSC" value="C163392"/>
+      <property name="Description" value="250mW 150V ±5% ±100ppm/℃ -55℃~+155℃ 220Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="YAGEO"/>
+      <property name="Manufacturer_Part_Number" value="RC0805JR-7W220RL"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f738860</tstamps>
     </comp>
     <comp ref="R41">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b429d</tstamps>
     </comp>
     <comp ref="R42">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b4a2e</tstamps>
     </comp>
     <comp ref="R43">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b4b35</tstamps>
     </comp>
     <comp ref="R44">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b4c32</tstamps>
     </comp>
     <comp ref="R45">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b4da1</tstamps>
     </comp>
     <comp ref="R46">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b4fce</tstamps>
     </comp>
     <comp ref="R47">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b511d</tstamps>
     </comp>
     <comp ref="R48">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b523c</tstamps>
     </comp>
     <comp ref="R49">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b5465</tstamps>
     </comp>
     <comp ref="R50">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b55ee</tstamps>
     </comp>
     <comp ref="R51">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b583d</tstamps>
     </comp>
     <comp ref="R52">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b594e</tstamps>
     </comp>
     <comp ref="R53">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b5af5</tstamps>
     </comp>
     <comp ref="R54">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b5c32</tstamps>
     </comp>
     <comp ref="R55">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b5dc7</tstamps>
     </comp>
     <comp ref="R56">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b5eda</tstamps>
     </comp>
     <comp ref="R57">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b602d</tstamps>
     </comp>
     <comp ref="R58">
       <value>330</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/2110251830_UNI-ROYAL-Uniroyal-Elec-0805W8F3300T5E_C17630.pdf</datasheet>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1912111437_Resistor-Today-HPCR0805F330RK9_C365291.pdf</datasheet>
       <fields>
-        <field name="Description">±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS</field>
-        <field name="LCSC">C17630</field>
-        <field name="Manufacturer_Name">UNI-ROYAL(Uniroyal Elec)</field>
-        <field name="Manufacturer_Part_Number">0805W8F3300T5E</field>
+        <field name="Description">250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS</field>
+        <field name="LCSC">C365291</field>
+        <field name="Manufacturer_Name">Resistor.Today</field>
+        <field name="Manufacturer_Part_Number">HPCR0805F330RK9</field>
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC" value="C17630"/>
-      <property name="Description" value="±1% 125mW Thick Film Resistors 150V ±100ppm/℃ -55℃~+155℃ 330Ω 0805 Chip Resistor - Surface Mount ROHS"/>
-      <property name="Manufacturer_Name" value="UNI-ROYAL(Uniroyal Elec)"/>
-      <property name="Manufacturer_Part_Number" value="0805W8F3300T5E"/>
+      <property name="LCSC" value="C365291"/>
+      <property name="Description" value="250mW Thick Film Resistors 150V ±1% ±100ppm/℃ -55℃~+125℃ 330Ω 0805  Chip Resistor - Surface Mount ROHS"/>
+      <property name="Manufacturer_Name" value="Resistor.Today"/>
+      <property name="Manufacturer_Part_Number" value="HPCR0805F330RK9"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f7b612e</tstamps>
     </comp>
@@ -1699,7 +1699,7 @@
       <property name="Manufacturer_Part_Number" value="DSHP02TSGET"/>
       <property name="LCSC" value="C40735"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f38ecd6</tstamps>
     </comp>
@@ -1722,13 +1722,13 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcc51e</tstamps>
     </comp>
     <comp ref="X2">
       <value>Dogcow</value>
-      <footprint>SamacSys_Parts:dogcow</footprint>
+      <footprint>SamacSys_Parts:dogcow_4p5mm</footprint>
       <datasheet>N/A - Silkscreen</datasheet>
       <fields>
         <field name="Description">N/A - Silkscreen</field>
@@ -1745,7 +1745,7 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcd6ca</tstamps>
     </comp>
@@ -1768,13 +1768,13 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcd8d2</tstamps>
     </comp>
     <comp ref="X4">
       <value>Dogcow</value>
-      <footprint>SamacSys_Parts:dogcow</footprint>
+      <footprint>SamacSys_Parts:dogcow_4p5mm</footprint>
       <datasheet>N/A - Silkscreen</datasheet>
       <fields>
         <field name="Description">N/A - Silkscreen</field>
@@ -1791,13 +1791,13 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcdd94</tstamps>
     </comp>
     <comp ref="X5">
       <value>Dogcow</value>
-      <footprint>SamacSys_Parts:dogcow</footprint>
+      <footprint>SamacSys_Parts:dogcow_4p5mm</footprint>
       <datasheet>N/A - Silkscreen</datasheet>
       <fields>
         <field name="Description">N/A - Silkscreen</field>
@@ -1814,13 +1814,13 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcdbc9</tstamps>
     </comp>
     <comp ref="X6">
       <value>Dogcow</value>
-      <footprint>SamacSys_Parts:dogcow</footprint>
+      <footprint>SamacSys_Parts:dogcow_4p5mm</footprint>
       <datasheet>N/A - Silkscreen</datasheet>
       <fields>
         <field name="Description">N/A - Silkscreen</field>
@@ -1837,7 +1837,7 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005efcdfad</tstamps>
     </comp>
@@ -1860,7 +1860,7 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2d2b3b</tstamps>
     </comp>
@@ -1883,7 +1883,7 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005fb668ef</tstamps>
     </comp>
@@ -1906,13 +1906,12 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Description" value="N/A - Silkscreen"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <property name="Sheetfile" value="rascsi_2p7.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>87412e9d-ce57-41e0-a0e4-452380f58e00</tstamps>
     </comp>
     <comp ref="J3">
       <value>Conn_02x25_Odd_Even</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Vertical</footprint>
       <datasheet>https://datasheet.lcsc.com/szlcsc/1810221914_BOOMELE-Boom-Precision-Elec-C30006_C30006.pdf</datasheet>
       <fields>
         <field name="Description">Header 50 0.100"(2.54mm) 2 2.54MM IDC Connectors RoHS</field>
@@ -1934,7 +1933,6 @@
     </comp>
     <comp ref="J9">
       <value>Conn_02x25_Odd_Even</value>
-      <footprint>Connector_PinHeader_2.00mm:PinHeader_2x25_P2.00mm_Horizontal</footprint>
       <datasheet>https://datasheet.lcsc.com/szlcsc/1811151534_BOOMELE-Boom-Precision-Elec-C3407_C3407.pdf</datasheet>
       <fields>
         <field name="Description">CUT DOWN TO 50 PIN - Pin Header 80 2 right-angle，90degrees 2.00mm Through Hole Pin Header</field>
@@ -1956,11 +1954,11 @@
     </comp>
     <comp ref="J20">
       <value>171826-4</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/2/171826-4.pdf</datasheet>
       <fields>
         <field name="Description">Headers &amp; Wire Housings 4P HDR R/A</field>
         <field name="Height">6.7</field>
+        <field name="LCSC">DNP</field>
         <field name="Manufacturer_Name">TE Connectivity</field>
         <field name="Manufacturer_Part_Number">171826-4</field>
       </fields>
@@ -1971,6 +1969,7 @@
       <property name="Mouser Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="TE Connectivity"/>
       <property name="Manufacturer_Part_Number" value="171826-4"/>
+      <property name="LCSC" value="DNP"/>
       <property name="Sheetname" value="Connectors"/>
       <property name="Sheetfile" value="Connectors.kicad_sch"/>
       <sheetpath names="/Connectors/" tstamps="/00000000-0000-0000-0000-00005feba38a/"/>
@@ -1978,7 +1977,6 @@
     </comp>
     <comp ref="J8">
       <value>USB_B_Micro</value>
-      <footprint>SamacSys_Parts:U254051N4BH806</footprint>
       <datasheet>https://datasheet.lcsc.com/szlcsc/2002271812_XKB-Connectivity-U254-051N-4BH806_C319170.pdf</datasheet>
       <fields>
         <field name="Description">USB - Micro B Female USB 2 5 SMD USB Connectors</field>
@@ -1998,7 +1996,6 @@
     </comp>
     <comp ref="TP1">
       <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <datasheet>N/A - Test pad</datasheet>
       <fields>
         <field name="Description">N/A - Test pad</field>
@@ -2021,7 +2018,6 @@
     </comp>
     <comp ref="TP2">
       <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <datasheet>N/A - Test pad</datasheet>
       <fields>
         <field name="Description">N/A - Test pad</field>
@@ -2044,7 +2040,6 @@
     </comp>
     <comp ref="TP3">
       <value>TestPoint</value>
-      <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
       <datasheet>N/A - Test pad</datasheet>
       <fields>
         <field name="Description">N/A - Test pad</field>
@@ -2516,7 +2511,7 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p6/SamacSys_Parts.lib</uri>
+      <uri>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p7/SamacSys_Parts.lib</uri>
     </library>
   </libraries>
   <nets>
