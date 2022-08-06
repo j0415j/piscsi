@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/Users/akuker/Downloads/RASCSI/hw/rascsi_2p6/rascsi_2p6.kicad_sch</source>
-    <date>Saturday, April 16, 2022 at 08:59:42 PM</date>
-    <tool>Eeschema (6.0.0-0)</tool>
+    <source>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p6\rascsi_2p6.kicad_sch</source>
+    <date>7/19/2022 8:30:21 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -319,14 +319,14 @@
       <tstamps>00000000-0000-0000-0000-00005ef89b2f</tstamps>
     </comp>
     <comp ref="IC1">
-      <value>SN74F245DWR</value>
-      <footprint>SamacSys_Parts:SOIC127P1030X265-20N</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1804240730_Texas-Instruments-SN74F245DWR_C7165.pdf</datasheet>
+      <value>SN74LVT245BPWR</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/cn/lit/ds/symlink/sn74lvt245b.pdf?ts=1658278514492</datasheet>
       <fields>
         <field name="Description">Octal bus transceivers</field>
-        <field name="LCSC">C7165</field>
+        <field name="LCSC">C74214</field>
         <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">SN74F245DWR</field>
+        <field name="Manufacturer_Part_Number">SN74LVT245</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="SN74LS245DW" description="Octal bus transceivers"/>
       <property name="Description" value="Octal bus transceivers"/>
@@ -334,22 +334,22 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="Texas Instruments"/>
-      <property name="Manufacturer_Part_Number" value="SN74F245DWR"/>
-      <property name="LCSC" value="C7165"/>
+      <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
+      <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2be68a</tstamps>
     </comp>
     <comp ref="IC2">
-      <value>SN74F245DWR</value>
-      <footprint>SamacSys_Parts:SOIC127P1030X265-20N</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1804240730_Texas-Instruments-SN74F245DWR_C7165.pdf</datasheet>
+      <value>SN74LVT245BPWR</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/cn/lit/ds/symlink/sn74lvt245b.pdf?ts=1658278514492</datasheet>
       <fields>
         <field name="Description">Octal bus transceivers</field>
-        <field name="LCSC">C7165</field>
+        <field name="LCSC">C74214</field>
         <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">SN74F245DWR</field>
+        <field name="Manufacturer_Part_Number">SN74LVT245</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="SN74LS245DW" description="Octal bus transceivers"/>
       <property name="Description" value="Octal bus transceivers"/>
@@ -357,22 +357,22 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="Texas Instruments"/>
-      <property name="Manufacturer_Part_Number" value="SN74F245DWR"/>
-      <property name="LCSC" value="C7165"/>
+      <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
+      <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2c1889</tstamps>
     </comp>
     <comp ref="IC3">
-      <value>SN74F245DWR</value>
-      <footprint>SamacSys_Parts:SOIC127P1030X265-20N</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1804240730_Texas-Instruments-SN74F245DWR_C7165.pdf</datasheet>
+      <value>SN74LVT245BPWR</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/cn/lit/ds/symlink/sn74lvt245b.pdf?ts=1658278514492</datasheet>
       <fields>
         <field name="Description">Octal bus transceivers</field>
-        <field name="LCSC">C7165</field>
+        <field name="LCSC">C74214</field>
         <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">SN74F245DWR</field>
+        <field name="Manufacturer_Part_Number">SN74LVT245</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="SN74LS245DW" description="Octal bus transceivers"/>
       <property name="Description" value="Octal bus transceivers"/>
@@ -380,22 +380,22 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="Texas Instruments"/>
-      <property name="Manufacturer_Part_Number" value="SN74F245DWR"/>
-      <property name="LCSC" value="C7165"/>
+      <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
+      <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f2c26e6</tstamps>
     </comp>
     <comp ref="IC4">
-      <value>SN74F245DWR</value>
-      <footprint>SamacSys_Parts:SOIC127P1030X265-20N</footprint>
-      <datasheet>https://datasheet.lcsc.com/lcsc/1804240730_Texas-Instruments-SN74F245DWR_C7165.pdf</datasheet>
+      <value>SN74LVT245BPWR</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://www.ti.com/cn/lit/ds/symlink/sn74lvt245b.pdf?ts=1658278514492</datasheet>
       <fields>
         <field name="Description">Octal bus transceivers</field>
-        <field name="LCSC">C7165</field>
+        <field name="LCSC">C74214</field>
         <field name="Manufacturer_Name">Texas Instruments</field>
-        <field name="Manufacturer_Part_Number">SN74F245DWR</field>
+        <field name="Manufacturer_Part_Number">SN74LVT245</field>
       </fields>
       <libsource lib="SamacSys_Parts" part="SN74LS245DW" description="Octal bus transceivers"/>
       <property name="Description" value="Octal bus transceivers"/>
@@ -403,8 +403,8 @@
       <property name="Mouser Part Number" value=""/>
       <property name="Mouser Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="Texas Instruments"/>
-      <property name="Manufacturer_Part_Number" value="SN74F245DWR"/>
-      <property name="LCSC" value="C7165"/>
+      <property name="Manufacturer_Part_Number" value="SN74LVT245"/>
+      <property name="LCSC" value="C74214"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1887,6 +1887,29 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005fb668ef</tstamps>
     </comp>
+    <comp ref="X9">
+      <value>CE Logo</value>
+      <footprint>Symbol:CE-Logo_8.5x6mm_SilkScreen</footprint>
+      <datasheet>N/A - Silkscreen</datasheet>
+      <fields>
+        <field name="Description">N/A - Silkscreen</field>
+        <field name="LCSC">N/A</field>
+        <field name="Manufacturer_Name">N/A</field>
+        <field name="Manufacturer_Part_Number">N/A</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="Logo" description=""/>
+      <property name="Height" value=""/>
+      <property name="LCSC" value="N/A"/>
+      <property name="Manufacturer_Name" value="N/A"/>
+      <property name="Manufacturer_Part_Number" value="N/A"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Description" value="N/A - Silkscreen"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rascsi_2p6.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87412e9d-ce57-41e0-a0e4-452380f58e00</tstamps>
+    </comp>
     <comp ref="J3">
       <value>Conn_02x25_Odd_Even</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Vertical</footprint>
@@ -2481,19 +2504,19 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector_Generic.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
     </library>
     <library logical="Mechanical">
-      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Mechanical.kicad_sym</uri>
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
     </library>
     <library logical="SamacSys_Parts">
-      <uri>/Users/akuker/Downloads/RASCSI/hw/rascsi_2p6/SamacSys_Parts.lib</uri>
+      <uri>C:\Users\theto\Downloads\RASCSI\hw\rascsi_2p6/SamacSys_Parts.lib</uri>
     </library>
   </libraries>
   <nets>
