@@ -1432,23 +1432,6 @@
     )
   )
 
-  (symbol (lib_id "SamacSys_Parts:Logo") (at 57.15 157.48 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 00000000-0000-0000-0000-00005efcd6ca)
-    (property "Reference" "X2" (id 0) (at 53.34 154.94 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "Dogcow" (id 1) (at 58.42 154.94 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "SamacSys_Parts:dogcow" (id 2) (at 57.15 157.48 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 57.15 157.48 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "SamacSys_Parts:Logo") (at 57.15 160.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005efcd8d2)
@@ -1767,9 +1750,6 @@
     )
     (path "/00000000-0000-0000-0000-00005efcc51e"
       (reference "X1") (unit 1) (value "Mac") (footprint "SamacSys_Parts:mac_happy_small")
-    )
-    (path "/00000000-0000-0000-0000-00005efcd6ca"
-      (reference "X2") (unit 1) (value "Dogcow") (footprint "SamacSys_Parts:dogcow")
     )
     (path "/00000000-0000-0000-0000-00005efcd8d2"
       (reference "X3") (unit 1) (value "Mac2") (footprint "SamacSys_Parts:mac_happy_small")
