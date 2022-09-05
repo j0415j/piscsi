@@ -831,9 +831,6 @@ int GPIOBUS::ReceiveHandShake(BYTE *buf, int count)
 			// Wait for ACK
 			bool ret = WaitSignal(PIN_ACK, TRUE);
 
-			// Wait until the signal line stabilizes
-			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS);
-
 			// Get data
 			*buf = GetDAT();
 
@@ -873,6 +870,7 @@ int GPIOBUS::ReceiveHandShake(BYTE *buf, int count)
 			if ((signals & GPIO_MCI) != phase) {
 				break;
 			}
+
 
 			// Wait until the signal line stabilizes
 			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS);
@@ -926,12 +924,9 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 	if (actmode == TARGET) {
 		for (i = 0; i < count; i++) {
 			if(i==delay_after_bytes){
-				LOGTRACE("%s DELAYING for %dus after %d bytes", __PRETTY_FUNCTION__, SCSI_DELAY_SEND_DATA_DAYNAPORT_US, (int)delay_after_bytes);
+				LOGWARN("%s DELAYING for %dus after %d bytes", __PRETTY_FUNCTION__, SCSI_DELAY_SEND_DATA_DAYNAPORT_US, (int)delay_after_bytes);
 				SysTimer::SleepUsec(SCSI_DELAY_SEND_DATA_DAYNAPORT_US);
 			}
-
-			// Set the DATA signals
-			SetDAT(*buf);
 
 			// Wait for ACK to clear
 			bool ret = WaitSignal(PIN_ACK, FALSE);
@@ -941,6 +936,11 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 				break;
 			}
 
+			// Set the DATA signals
+			SetDAT(*buf);
+
+			// Wait until the signal line stabilizes
+			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS/4);
 			// Already waiting for ACK to clear
 
 			// Assert the REQ signal
@@ -973,9 +973,6 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 				SysTimer::SleepUsec(SCSI_DELAY_SEND_DATA_DAYNAPORT_US);
 			}
 
-			// Set the DATA signals
-			SetDAT(*buf);
-
 			// Wait for REQ to be asserted
 			bool ret = WaitSignal(PIN_REQ, TRUE);
 
@@ -990,6 +987,11 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 			}
 
 			// Already waiting for REQ assertion
+			// Set the DATA signals
+			SetDAT(*buf);
+
+			// Wait until the signal line stabilizes
+			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS);
 
 			// Assert the ACK signal
 			SetSignal(PIN_ACK, ON);
