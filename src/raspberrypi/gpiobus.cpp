@@ -940,7 +940,7 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 			SetDAT(*buf);
 
 			// Wait until the signal line stabilizes
-			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS/4);
+			SysTimer::SleepNsec(SCSI_DELAY_ASSERTION_PERIOD_NS);
 			// Already waiting for ACK to clear
 
 			// Assert the REQ signal
