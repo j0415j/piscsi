@@ -871,7 +871,6 @@ int GPIOBUS::ReceiveHandShake(BYTE *buf, int count)
 				break;
 			}
 
-
 			// Wait until the signal line stabilizes
 			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS);
 
@@ -991,7 +990,7 @@ int GPIOBUS::SendHandShake(BYTE *buf, int count, int delay_after_bytes)
 			SetDAT(*buf);
 
 			// Wait until the signal line stabilizes
-			SysTimer::SleepNsec(SCSI_DELAY_BUS_SETTLE_DELAY_NS);
+			SysTimer::SleepNsec(SCSI_DELAY_ASSERTION_PERIOD_NS);
 
 			// Assert the ACK signal
 			SetSignal(PIN_ACK, ON);
