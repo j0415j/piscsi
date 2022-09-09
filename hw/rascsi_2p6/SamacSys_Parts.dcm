@@ -44,4 +44,10 @@ K
 F https://componentsearchengine.com/Datasheets/2/171826-4.pdf
 $ENDCMP
 #
+$CMP L77SDB25S1ACH4F
+D D-Sub Standard Connectors D-SUB,Dsub, Stamped Signal 3A, Right Angle PCB Through Hole, FP=10.40mm (0.409in), Row Pitch 2.54mm, 25 Socket, Flash Gold, Bright Tin Shell, 4-40 Front Screwlock, Ground Tab with Boardlock
+K
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/l77sdxxxs1ach4f.pdf
+$ENDCMP
+#
 #End Doc Library
