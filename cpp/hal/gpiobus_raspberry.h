@@ -237,7 +237,7 @@ class GPIOBUS_Raspberry : public GPIOBUS
     volatile uint32_t *gicc = nullptr;
 
     // RAM copy of GPFSEL0-4  values (GPIO Function Select)
-    array<uint32_t, 4> gpfsel;
+    array<uint32_t, 5> gpfsel;
 
 #if SIGNAL_CONTROL_MODE == 0
     // Data mask table
@@ -257,6 +257,7 @@ class GPIOBUS_Raspberry : public GPIOBUS
     const static int GPIO_FSEL_1     = 1;
     const static int GPIO_FSEL_2     = 2;
     const static int GPIO_FSEL_3     = 3;
+    const static int GPIO_FSEL_4     = 4;
     const static int GPIO_SET_0      = 7;
     const static int GPIO_CLR_0      = 10;
     const static int GPIO_LEV_0      = 13;

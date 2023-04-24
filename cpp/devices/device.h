@@ -19,7 +19,7 @@ using namespace piscsi_interface;
 
 class Device //NOSONAR The number of fields and methods is justified, the complexity is low
 {
-	const string DEFAULT_VENDOR = "PiSCSI";
+	const string DEFAULT_VENDOR = "Semicon";
 
 	PbDeviceType type;
 

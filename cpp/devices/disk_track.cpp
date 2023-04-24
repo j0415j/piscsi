@@ -232,7 +232,8 @@ bool DiskTrack::ReadSector(vector<uint8_t>& buf, int sec) const
 	// Copy
 	assert(dt.buffer);
 	assert((dt.sectors > 0) && (dt.sectors <= 0x100));
-	memcpy(buf.data(), &dt.buffer[(off_t)sec << dt.size], (off_t)1 << dt.size);
+	//common for test
+	//memcpy(buf.data(), &dt.buffer[(off_t)sec << dt.size], (off_t)1 << dt.size);
 
 	// Success
 	return true;

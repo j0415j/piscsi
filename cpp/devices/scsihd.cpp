@@ -16,7 +16,7 @@
 #include "shared/piscsi_exceptions.h"
 #include "scsihd.h"
 #include "scsi_command_util.h"
-
+#include <iostream>
 using namespace scsi_command_util;
 
 SCSIHD::SCSIHD(int lun, const unordered_set<uint32_t>& sector_sizes, bool removable, scsi_defs::scsi_level level)
@@ -73,10 +73,13 @@ void SCSIHD::Open()
 	off_t size = GetFileSize();
 
 	// Sector size (default 512 bytes) and number of blocks
-	SetSectorSizeInBytes(GetConfiguredSectorSize() ? GetConfiguredSectorSize() : 512);
+	//cout << " Joel 1 \n";
+	SetSectorSizeInBytes(GetConfiguredSectorSize() ? GetConfiguredSectorSize() : 16384); //Joel test //512);
+	//cout << "Joel 2 \n";
 	SetBlockCount(static_cast<uint32_t>(size >> GetSectorSizeShiftCount()));
-
+        //cout << " Joel 3 \n";
 	FinalizeSetup(0);
+	//cout << "Joel 4 \n";
 }
 
 vector<uint8_t> SCSIHD::InquiryInternal() const

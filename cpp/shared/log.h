@@ -21,9 +21,13 @@ static const int LOGBUF_SIZE = 512;
 	snprintf(logbuf, sizeof(logbuf), __VA_ARGS__);	\
 	spdlog::log(loglevel, logbuf);			\
 };
-
+#define SPDLOGSETPATTERN(...)				\
+{							\
+	spdlog::set_pattern("***[%H:%M] [%S.%F] %v ***");	\
+};
 #define LOGTRACE(...) SPDLOGWRAPPER(spdlog::level::trace, __VA_ARGS__)
 #define LOGDEBUG(...) SPDLOGWRAPPER(spdlog::level::debug, __VA_ARGS__)
 #define LOGINFO(...) SPDLOGWRAPPER(spdlog::level::info, __VA_ARGS__)
 #define LOGWARN(...) SPDLOGWRAPPER(spdlog::level::warn, __VA_ARGS__)
 #define LOGERROR(...) SPDLOGWRAPPER(spdlog::level::err, __VA_ARGS__)
+#define LOG_SET_PATTERN(...) SPDLOGSETPATTERN(__VA_ARGS__)

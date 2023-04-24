@@ -380,7 +380,7 @@ void ScsiController::DataIn()
 		if (execstart > 0) {
 			Sleep();
 		}
-
+		
 		// If the length is 0, go to the status phase
 		if (!HasValidLength()) {
 			Status();
@@ -504,6 +504,7 @@ void ScsiController::Send()
 			return;
 		}
 
+		logger.Trace("UPDATEoffsetandLength");
 		UpdateOffsetAndLength();
 
 		return;
@@ -820,6 +821,10 @@ bool ScsiController::XferIn(vector<uint8_t>& buf)
 		case scsi_command::eCmdRead10:
 		case scsi_command::eCmdRead16:
 			// Read from disk
+		         logger.Trace(" Joel bypass XferIn read 6 or 10 or 16");
+			
+			
+			//return true;
 			try {
 				SetLength(dynamic_pointer_cast<Disk>(GetDeviceForLun(lun))->Read(GetCmd(), buf, GetNext()));
 			}
@@ -828,6 +833,8 @@ bool ScsiController::XferIn(vector<uint8_t>& buf)
 				return false;
 			}
 
+			
+			//SetLength(512);
 			IncrementNext();
 
 			// If things are normal, work setting

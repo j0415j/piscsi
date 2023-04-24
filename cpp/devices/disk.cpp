@@ -114,7 +114,9 @@ void Disk::Read(access_mode mode)
 {
 	const auto& [valid, start, blocks] = CheckAndGetStartAndCount(mode);
 	if (valid) {
+		
 		GetController()->SetBlocks(blocks);
+		//GetController()->SetBlocks(1);
 		GetController()->SetLength(Read(GetController()->GetCmd(), GetController()->GetBuffer(), start));
 
 		GetLogger().Trace("Length is " + to_string(GetController()->GetLength()));
@@ -501,6 +503,13 @@ int Disk::Read(const vector<int>&, vector<uint8_t>& buf, uint64_t block)
 {
 	assert(block < GetBlockCount());
 
+
+	//Joel for test code
+	//
+	GetLogger().Trace("read the disk");
+	//
+
+
 	CheckReady();
 
 	if (!cache->ReadSector(buf, static_cast<uint32_t>(block))) {
@@ -692,6 +701,16 @@ void Disk::SetSectorSizeInBytes(uint32_t size_in_bytes)
 	DeviceFactory device_factory;
 	if (const auto& sizes = device_factory.GetSectorSizes(GetType());
 		!sizes.empty() && sizes.find(size_in_bytes) == sizes.end()) {
+		/*cout << "Root Cause?!\n " << to_string(size_in_bytes);
+	       cout << "\n sizes.empty= " << sizes.empty()<< "\n";
+	       for(const auto s : sizes)
+	       {
+		       cout << s << " ";
+
+               }
+	       cout << "\n";*/
+
+
 		throw io_exception("Invalid sector size of " + to_string(size_in_bytes) + " byte(s)");
 	}
 

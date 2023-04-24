@@ -96,7 +96,7 @@ private:
 	int ModeSense10(const vector<int>&, vector<uint8_t>&) const override;
 
 	static inline const unordered_map<uint32_t, uint32_t> shift_counts =
-		{ { 512, 9 }, { 1024, 10 }, { 2048, 11 }, { 4096, 12 } };
+		{ {8,3},{16,4},{32,5},{64,6},{128,7},{256, 8},{ 512, 9 }, { 1024, 10 }, { 2048, 11 }, { 4096, 12 },{8192,13},{16384,14} };
 
 protected:
 

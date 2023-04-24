@@ -25,7 +25,7 @@
 #include <sys/ioctl.h>
 #include <sys/mman.h>
 #include <sys/time.h>
-
+#include <iostream>
 //---------------------------------------------------------------------------
 //
 //	imported from bcm_host.c
@@ -177,7 +177,7 @@ bool GPIOBUS_Raspberry::Init(mode_e mode)
     gpfsel[1] = gpio[GPIO_FSEL_1];
     gpfsel[2] = gpio[GPIO_FSEL_2];
     gpfsel[3] = gpio[GPIO_FSEL_3];
-
+    gpfsel[4] = gpio[GPIO_FSEL_4];
     // Initialize SEL signal interrupt
 #ifdef USE_SEL_EVENT_ENABLE
     // GPIO chip open
@@ -622,7 +622,7 @@ void GPIOBUS_Raspberry::SetDAT(uint8_t dat)
         gpfsel[0]         = fsel;
         gpio[GPIO_FSEL_0] = fsel;
     }
-
+    
     fsel = gpfsel[1];
     fsel &= tblDatMsk[1][dat];
     fsel |= tblDatSet[1][dat];
@@ -638,6 +638,23 @@ void GPIOBUS_Raspberry::SetDAT(uint8_t dat)
         gpfsel[2]         = fsel;
         gpio[GPIO_FSEL_2] = fsel;
     }
+   
+    fsel = gpfsel[3];
+    fsel &= tblDatMsk[3][dat];
+    fsel |= tblDatSet[3][dat];
+    if (fsel != gpfsel[3]) {
+        gpfsel[3]         = fsel;
+        gpio[GPIO_FSEL_3] = fsel;
+    }
+   
+    fsel = gpfsel[4];
+    fsel &= tblDatMsk[4][dat];
+    fsel |= tblDatSet[4][dat];
+    if (fsel != gpfsel[4]) {
+        gpfsel[4]         = fsel;
+        gpio[GPIO_FSEL_4] = fsel;
+    }
+
 #else
     gpio[GPIO_CLR_0] = tblDatMsk[dat];
     gpio[GPIO_SET_0] = tblDatSet[dat];
@@ -777,10 +794,11 @@ void GPIOBUS_Raspberry::SetMode(int pin, int mode)
 {
 #if SIGNAL_CONTROL_MODE == 0
     if (mode == OUT) {
-        return;
+	//cout << "Joel Flag SinNAL_CONTRL_MODE\n\n " ;
+	    return;
     }
 #endif // SIGNAL_CONTROL_MODE
-
+	//cout << "Joel Flag endif\n\n";
     int index     = pin / 10;
     int shift     = (pin % 10) * 3;
     uint32_t data = gpfsel[index];

@@ -502,7 +502,8 @@ int Piscsi::run(const vector<char *>& args)
 
 	// Create a thread-safe stdout logger to process the log messages
 	const auto logger = stdout_color_mt("piscsi stdout logger");
-
+	logger->set_pattern("[%T] [%n] %^[%l]%$: %v");
+	LOG_SET_PATTERN("test");
 	if (!InitBus()) {
 		cerr << "Error: Can't initialize bus" << endl;
 

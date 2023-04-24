@@ -29,7 +29,7 @@ using namespace piscsi_util;
 
 DeviceFactory::DeviceFactory()
 {
-	sector_sizes[SCHD] = { 512, 1024, 2048, 4096 };
+	sector_sizes[SCHD] = { 8,16,32,64,128,256,512, 1024, 2048, 4096,8192,16384 };
 	sector_sizes[SCRM] = { 512, 1024, 2048, 4096 };
 	sector_sizes[SCMO] = { 512, 1024, 2048, 4096 };
 	sector_sizes[SCCD] = { 512, 2048};

@@ -274,20 +274,22 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
     GPIO_FUNCTION_TRACE
     int i;
 
+    LOGTRACE("Send HandShake Start");
     // Disable IRQs
     DisableIRQ();
-
+    //LOGTRACE("DISABLE IRQ");
     if (actmode == mode_e::TARGET) {
         for (i = 0; i < count; i++) {
             if (i == delay_after_bytes) {
                 LOGTRACE("%s DELAYING for %dus after %d bytes", __PRETTY_FUNCTION__, SCSI_DELAY_SEND_DATA_DAYNAPORT_US,
                          (int)delay_after_bytes)
                 SysTimer::SleepUsec(SCSI_DELAY_SEND_DATA_DAYNAPORT_US);
-            }
-
+            } 
+	    //LOGTRACE("SETDAT");
             // Set the DATA signals
             SetDAT(*buf);
 
+	    //LOGTRACE("WAITACK OFF");
             // Wait for ACK to clear
             bool ret = WaitACK(OFF);
 
@@ -298,12 +300,15 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
 
             // Already waiting for ACK to clear
 
+	    //LOGTRACE("SETREQ");
             // Assert the REQ signal
             SetREQ(ON);
 
+	    //LOGTRACE("WAITACK ON");
             // Wait for ACK
             ret = WaitACK(ON);
 
+	    //LOGTRACE("SETREQ OFF");
             // Clear REQ signal
             SetREQ(OFF);
 
@@ -375,6 +380,7 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
     }
 
     // Re-enable IRQ
+    //LOGTRACE("EnableIRQ");
     EnableIRQ();
 
     // Return number of transmissions
@@ -395,10 +401,10 @@ bool GPIOBUS::PollSelectEvent()
     LOGTRACE("%s", __PRETTY_FUNCTION__)
     errno         = 0;
     int prev_mode = -1;
-    if (SBC_Version::IsBananaPi()) {
+    /*if (SBC_Version::IsBananaPi()) {
         prev_mode = GetMode(BPI_PIN_SEL);
         SetMode(BPI_PIN_SEL, GPIO_IRQ_IN);
-    }
+    }*/
 
     if (epoll_event epev; epoll_wait(epfd, &epev, 1, -1) <= 0) {
         LOGWARN("%s epoll_wait failed", __PRETTY_FUNCTION__)
@@ -410,9 +416,9 @@ bool GPIOBUS::PollSelectEvent()
         return false;
     }
 
-    if (SBC_Version::IsBananaPi()) {
+    /*if (SBC_Version::IsBananaPi()) {
         SetMode(BPI_PIN_SEL, prev_mode);
-    }
+    }*/
     return true;
 #endif
 }
