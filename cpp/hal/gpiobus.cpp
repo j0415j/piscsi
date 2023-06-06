@@ -287,7 +287,9 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
             } 
 	    //LOGTRACE("SETDAT");
             // Set the DATA signals
-            SetDAT(*buf);
+          
+            SetDAT(*buf);// change GPIO pin Signal, if remark this will see performace increase in IO meter.
+            
 
 	    //LOGTRACE("WAITACK OFF");
             // Wait for ACK to clear
