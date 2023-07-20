@@ -274,13 +274,13 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
     GPIO_FUNCTION_TRACE
     int i;
 
-    LOGTRACE("Send HandShake Start");
+    //LOGTRACE("Send HandShake Start");
     // Disable IRQs
     DisableIRQ();
     //LOGTRACE("DISABLE IRQ");
-    if (actmode == mode_e::TARGET) {
+    if (actmode == mode_e::TARGET && delay_after_bytes == 99) {
         for (i = 0; i < count; i++) {
-            if (i == delay_after_bytes) {
+            if (i == delay_after_bytes && delay_after_bytes != 99) {
                 LOGTRACE("%s DELAYING for %dus after %d bytes", __PRETTY_FUNCTION__, SCSI_DELAY_SEND_DATA_DAYNAPORT_US,
                          (int)delay_after_bytes)
                 SysTimer::SleepUsec(SCSI_DELAY_SEND_DATA_DAYNAPORT_US);
@@ -288,7 +288,7 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
 	    //LOGTRACE("SETDAT");
             // Set the DATA signals
           
-            SetDAT(*buf);// change GPIO pin Signal, if remark this will see performace increase in IO meter.
+            //SetDAT(*buf);// change GPIO pin Signal, if remark this will see performace increase in IO meter.
             
 
 	    //LOGTRACE("WAITACK OFF");
@@ -325,7 +325,52 @@ int GPIOBUS::SendHandShake(uint8_t *buf, int count, int delay_after_bytes)
 
         // Wait for ACK to clear
         WaitACK(OFF);
-    } else {
+    } 
+    // if detect not read cmd (delay_after_bytes==99) then do normal behavior
+      else if (actmode == mode_e::TARGET && delay_after_bytes != 99) {
+         LOGTRACE ("NOT in read mode");
+	    for (i = 0; i < count; i++) {
+            if (i == delay_after_bytes) {
+                LOGTRACE("%s DELAYING for %dus after %d bytes", __PRETTY_FUNCTION__, SCSI_DELAY_SEND_DATA_DAYNAPORT_US,
+                         (int)delay_after_bytes)
+                SysTimer::SleepUsec(SCSI_DELAY_SEND_DATA_DAYNAPORT_US);
+            }
+
+            // Set the DATA signals
+            SetDAT(*buf);
+
+            // Wait for ACK to clear
+            bool ret = WaitACK(OFF);
+
+            // Check for timeout waiting for ACK to clear
+            if (!ret) {
+                break;
+            }
+
+            // Already waiting for ACK to clear
+
+            // Assert the REQ signal
+            SetREQ(ON);
+
+            // Wait for ACK
+            ret = WaitACK(ON);
+
+            // Clear REQ signal
+            SetREQ(OFF);
+
+            // Check for timeout waiting for ACK to clear
+            if (!ret) {
+                break;
+            }
+
+            // Advance the data buffer pointer to receive the next byte
+            buf++;
+        }
+
+        // Wait for ACK to clear
+        WaitACK(OFF);
+    }
+    else {
         // Get Phase
         Acquire();
         phase_t phase = GetPhase();

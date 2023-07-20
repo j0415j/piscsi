@@ -496,6 +496,15 @@ void ScsiController::Send()
 
 		// The delay should be taken from the respective LUN, but as there are no Daynaport drivers for
 		// LUNs other than 0 this work-around works.
+		if(GetOpcode() == scsi_command::eCmdRead10) //using Setpass function to mark the Read cmd
+		{
+			GetDeviceForLun(0)->Setpass(99);
+		}
+		else
+		{
+			GetDeviceForLun(0)->Setpass(0);
+		}
+		
 		if (const int len = GetBus().SendHandShake(GetBuffer().data() + GetOffset(), GetLength(),
 				HasDeviceForLun(0) ? GetDeviceForLun(0)->GetSendDelay() : 0);
 			len != static_cast<int>(GetLength())) {

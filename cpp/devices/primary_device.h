@@ -43,6 +43,7 @@ public:
 	virtual bool WriteByteSequence(vector<uint8_t>&, uint32_t);
 
 	int GetSendDelay() const { return send_delay; }
+	void Setpass(int s) {send_delay=s;}
 
 	bool CheckReservation(int, scsi_command, bool) const;
 	void DiscardReservation();
